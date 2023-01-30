@@ -1,5 +1,5 @@
 # Farmer Goes Rogue
-
+![Cover](https://github.com/jufb/FarmerGoesRogue/raw/main/Cover.png)
 
 A 3D sidescroller runner game built on Unity and published on WebGL.
 
