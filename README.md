@@ -9,7 +9,8 @@ https://play.unity.com/mg/other/webgl-builds-303049
 
 
 ## Features
-- It will be possible for the player to see the Options at the start to change the difficulty level and learn the game controls such as changing the camera angle.
+- The player can see the Options at the start to change the difficulty level and learn the game controls.
+- The player can change the camera angle at any moment.
 
 ![options](https://user-images.githubusercontent.com/78984353/215593829-7f58e98d-bb0e-4efc-a8f1-a7ee8a1ece19.jpg)
 
